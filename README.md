@@ -1,2 +1,1 @@
-# hexlet-basics
-Repository for Git-courses from Hexlet
+#Changes from my PC for tets
